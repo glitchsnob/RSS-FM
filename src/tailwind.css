@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-cursor::placeholder {
+  color: #4b5563; /* Adjust this color according to your preference */
+}
